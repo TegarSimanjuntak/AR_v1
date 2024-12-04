@@ -16,7 +16,7 @@
      // Teks untuk setiap anotasi
         const annotationTexts = [
             "Informasi tentang Filosofi.",
-            "Informasi tentang Masalah Pembangunan.",
+            "Wajah Baru yang Menggantikan Banyak Kenangan Gerbang Lama dan Brooklyn Unpad",
             "Informasi tentang Pendanaan.",
             "Informasi tentang Kontroversi Tugu Makalangan Unpad."
         ];
